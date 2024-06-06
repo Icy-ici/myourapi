@@ -1,4 +1,4 @@
-# ourapi
+# Ryan's ourapi
 
 OurAPI was designed initially as a teaching tool.
 It allows simple and rapid development of a REST, json API,
